@@ -5,7 +5,9 @@
 - https://huntress.ctf.games/challenges
 
 ## Description
-*Celebrate Cybersecurity Awareness Month with Huntress | New challenges released every day!*
+*Celebrate Cybersecurity Awareness Month with Huntress   |   New challenges released every day!*
+
+**October 1, 12:00 PM PT - November 1, 12:00 PM PT**
 
 # Results
 **Username:** arch-err
