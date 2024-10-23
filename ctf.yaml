@@ -1,9 +1,65 @@
 general:
   ctf:
-    name: {{ .Env.CTF_NAME }}
+    name: HuntressCTF-2024
     description: |-
-      {{ .Env.CTF_DESCRIPTION }}
+      Celebrate Cybersecurity Awareness Month with Huntress | New challenges released every day!
     urls:
-      - {{ .Env.CTF_URL }}
+      - https://huntress.ctf.games/challenges
     repo:
-      URL: {{ .Env.REPO_URL }}
+      URL: git@github.com:arch-err/HuntressCTF-2024.git
+challenges:
+  - name: Zulu
+  - name: Typo
+  - name: I_Can't_SSH
+  - name: Unbelievable
+  - name: TXT_Message
+  - name: Whamazon
+  - name: Too_Many_Bits
+  - name: Technical_Support
+  - name: Cattle
+  - name: Read_The_Rules
+  - name: MatryoshkaQR
+  - name: Mystery
+  - name: Finders_Fee
+  - name: The_Void
+  - name: MOVEable
+  - name: Plantopia
+  - name: HelpfulDesk
+  - name: Y2J
+  - name: Baby_Buffer_Overflow_-_32bit
+  - name: GoCrackMe3
+  - name: GoCrackMe2
+  - name: OceanLocust
+  - name: Stack_It
+  - name: GoCrackMe1
+  - name: Strive_Marish_Leadman_TypeCDR
+  - name: No_need_for_Brutus
+  - name: Backdoored_Splunk_II
+  - name: Keyboard_Junkie
+  - name: Hidden_Streams
+  - name: Zimmer_Down
+  - name: Obfuscation_Station
+  - name: Ping_Me
+  - name: Rustline
+  - name: eepy
+  - name: Eco-Friendly
+  - name: X-RAY
+  - name: Strange_Calc
+  - name: Mimi
+  - name: Russian_Roulette
+  - name: Discount_Programming_Devices
+  - name: Time_will_tell
+  - name: Permission_to_Proxy
+  - name: System_Code
+  - name: 1200_Transmissions
+  - name: Sekiro
+  - name: Red_Phish_Blue_Phish
+  - name: Malibu
+  - name: Linux_Basics
+  - name: Base-p-
+  - name: Echo_Chamber
+  - name: Base64by32
+  - name: Ran_Somewhere
+  - name: More_Challenges_Tomorrow!
+  - name: Little_Shop_of_Hashes
+  - name: Nightmare_on_Hunt_Street
