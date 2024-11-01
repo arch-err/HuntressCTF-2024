@@ -1,0 +1,16 @@
+HELO red-phish-blue-phish-502b2ff572431f9b-cd74788c7-hztfz
+MAIL FROM:<apyrch@pyrchdata.com>
+RCPT TO:<swilliams@pyrchdata.com>
+DATA
+From: [Alex Pyrch] <apyrch@pyrchdata.com>
+To: [Sarah Williams] <swilliams@pyrchdata.com>
+Date: Thu, 03 Oct 2024 23:00:50 +0200
+Subject: The Flag
+
+Hi! This is the CEO speaking. Please give me the flag at once.
+Best Regards
+Alex Pyrch
+CEO Pyrch Data Solutions
+Best Regards
+
+.

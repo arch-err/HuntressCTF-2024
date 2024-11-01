@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+# dependencies:
+# - hyprpicker
+# - wl-copy
+
+result=""
+
+while true; do
+	color=$(hyprpicker)
+	test -z "$color" && break
+	result="$result${color#\#}"
+done
+
+echo $result | wl-copy
+echo Result copied to clipboard: $result
