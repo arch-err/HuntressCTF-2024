@@ -1,10 +1,8 @@
 # Sekiro
-*<++>*
+*お前はもう死んでいる*
 
 ## Solution
-1. <++>
-2. `<++>`
-3. `./solve.sh`
+***This was an interactive challenge and cannot be solved now***
 
 
 ## Flag

@@ -15,7 +15,7 @@
 **Team:** KlokaIndivider
 
 
-**Flags:** (20/64)
+**Flags:** (20/66)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -84,3 +84,5 @@
 - [ ] [Rusty_Bin](Rusty_Bin)
 - [ ] [Thats_Life](Thats_Life)
 - [ ] [Knights_Quest](Knights_Quest)
+- [ ] [Palimpsest](Palimpsest)
+- [ ] [Revenge_of_Discount_Programming_Devices](Revenge_of_Discount_Programming_Devices)

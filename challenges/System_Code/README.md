@@ -1,10 +1,10 @@
 # System_Code
-*<++>*
+*Follow the white rabbit.*
+
+*NOTE: Bruteforce is permitted for this challenge instance if you feel it is necessary.*
 
 ## Solution
-1. <++>
-2. `<++>`
-3. `./solve.sh`
+***This was a web challenge and cannot be solved now***
 
 
 ## Flag
