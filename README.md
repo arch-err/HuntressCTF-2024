@@ -19,6 +19,8 @@
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
+![ ](assets/team-cert.png)
+![ ](assets/user-cert.png)
 
 
 # Challenges
